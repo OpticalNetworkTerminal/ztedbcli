@@ -5,3 +5,4 @@ runtime-db.xml
 rootfs/
 out/
 tmp/
+.DS_Store
