@@ -171,10 +171,10 @@ flowchart TD
 
 | 文档 | 内容 |
 | --- | --- |
-| 架构与调用链 | `sendcmd`、`cspd`、`libdb.so`、shared memory 和 `ztedbcli` 的调用关系。 |
-| 命令参考 | `diag`、`dump`、`get`、`set`、`addrow`、`delrow`、`save` 等命令用法。 |
-| 编译与部署 | 交叉编译、动态库依赖、bundle、UPX、常见链接和运行错误处理。 |
-| 限制与验证 | 已知限制、只读/写入验证流程、与离线 `dbunpack/dbpack` 的关系。 |
+| [架构与调用链](docs/%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%B0%83%E7%94%A8%E9%93%BE.md) | `sendcmd`、`cspd`、`libdb.so`、shared memory 和 `ztedbcli` 的调用关系。 |
+| [命令参考](docs/%E5%91%BD%E4%BB%A4%E5%8F%82%E8%80%83.md) | `diag`、`dump`、`get`、`set`、`addrow`、`delrow`、`save` 等命令用法。 |
+| [编译与部署](docs/%E7%BC%96%E8%AF%91%E4%B8%8E%E9%83%A8%E7%BD%B2.md) | 交叉编译、动态库依赖、bundle、UPX、常见链接和运行错误处理。 |
+| [限制与验证](docs/%E9%99%90%E5%88%B6%E4%B8%8E%E9%AA%8C%E8%AF%81.md) | 已知限制、只读/写入验证流程、与离线 `dbunpack/dbpack` 的关系。 |
 
 ## 风险提示
 
