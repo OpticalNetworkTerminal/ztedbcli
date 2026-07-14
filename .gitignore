@@ -1,0 +1,7 @@
+ztedbcli
+*.o
+runtime-db.xml
+*.log
+rootfs/
+out/
+tmp/
